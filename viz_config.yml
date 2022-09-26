@@ -1,11 +1,11 @@
 # Actual dates of the viz frames
 vizDates:
-  start: '2019-10-01'
-  end: '2020-09-30'
+  start: '2022-09-01'
+  end: '2022-09-15'
 # Dates that make up the wheel (usually a full year)
 wheelDates:
-  start: '2019-10-01'
-  end: '2020-09-30'
+  start: '2022-09-01'
+  end: '2022-09-15'
 date_display_tz: "America/New_York" # UTC is assumed for all input and intermediate data; this is the TZ to display on the GIF
 frame_step: 3 # hours elapsed between GIF frames
 
@@ -75,7 +75,7 @@ legend_cfg:
   y_pos: 0.79
 title_cfg:
   main: "U.S. River Conditions"
-  subtitle: "October 1, 2019 - September 30, 2020"
+  subtitle: "September 1, 2022 - September 15, 2022"
   footnote: [
     "Conditions are relative to the historic",
     "daily record for each gage.",
