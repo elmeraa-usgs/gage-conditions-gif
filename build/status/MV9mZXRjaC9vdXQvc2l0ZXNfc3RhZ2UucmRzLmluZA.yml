@@ -1,10 +1,10 @@
 version: 0.3.0
 name: 1_fetch/out/sites_stage.rds.ind
 type: file
-hash: fa83d77a4522d549dc2949bdc4f31bcd
-time: 2022-09-26 16:29:30 UTC
+hash: 9df4b4fc7fc2123f9c84479de3ed2850
+time: 2022-09-27 19:16:59 UTC
 depends:
-  1_fetch/out/sites.rds.ind: 9586bdb6b3f6b16da98ddfd3c4f1088b
+  1_fetch/out/sites.rds.ind: 37264ee44251e1e558c317f7c3d2dee2
 fixed: 53451268ca2c9d0479db3ce37861792e
 code:
   functions:
