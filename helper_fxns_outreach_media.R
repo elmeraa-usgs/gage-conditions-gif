@@ -170,7 +170,7 @@ generate_insta_video <- function(version_info) {
   video_insta <- sprintf("6_visualize/out/%s_insta.mp4", version_info)
 
   reg_animation_start <- 4 # seconds into animation that map is first shown
-  reg_animation_end <- 48 # seconds into animation that map is last shown
+  reg_animation_end <- 15 # seconds into animation that map is last shown
 
   insta_dim <- 600 # square shape
 
